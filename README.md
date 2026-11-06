@@ -1,4 +1,4 @@
-# Hi, I'm Ayoub Chemingui 👋
+# Hi, I'm AyoubCh 👋
 
 > **Backend & systems engineer** — I like building things that are fast, concurrent, and a little over-engineered, from multi-agent C++ systems to full-stack platforms and games.
 
